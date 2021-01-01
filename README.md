@@ -1,10 +1,10 @@
-### Hi there 👋, I am Alex Braslavskyi
+<h1 align="center">Hi 👋, I'm Alex Braslavskyi</h1>
+<h3 align="center">A passionate fullstack developer from Israel</h3>
+<p>
 
-A passionate full stack developer from Israel
+- 🤝 I’m looking for **a job as full stack developer**
 
-🤝 I’m looking for a job as full stack developer
-
-📫 How to reach me abraslik@gmail.com
+- 📫 How to reach me **abraslik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
