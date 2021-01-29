@@ -3,7 +3,7 @@
 <p>
 
 - 🤝 I’m looking for **a job as full stack developer**
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Java; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me **abraslik@gmail.com**
